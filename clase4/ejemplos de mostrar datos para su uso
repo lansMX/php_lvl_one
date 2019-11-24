@@ -1,0 +1,20 @@
+json
+{
+	"apellido": "",
+	"id": "13",
+	"name": "NombreTest"
+}
+
+xml
+<alumno>	
+	<apellido></apellido> 
+	<id>13</id> 
+	<name>NombreTest</name> 
+</alumno>
+
+csv
+apellido;id;name
+;13;NombreTest
+
+txt
+;13;NombreTest
